@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey folks! 👋
+![](https://komarev.com/ghpvc/?username=vishnu921&color=orange)
 <!--
 **vishnu921/vishnu921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
