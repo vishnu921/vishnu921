@@ -19,9 +19,9 @@
 <kbd><img height="30" border="1" src="https://pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg"/></kbd>
 
 ## Connect with me:
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishnu-amola/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ba11@iitbbs.ac.in)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmolaVishnu)
+ <a href="https://www.linkedin.com/in/bishnu-amola/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ <a href="mailto:ba11@iitbbs.ac.in" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+ <a href="https://twitter.com/AmolaVishnu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
 <br><br>
 ![](https://komarev.com/ghpvc/?username=vishnu921&color=orange)
 
